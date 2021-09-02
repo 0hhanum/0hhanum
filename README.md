@@ -18,7 +18,7 @@
 <br>
 <br>
 <div style="border: 2px solid whitesmoke; border-radius: 20px">
-<br>
+
 <p align="center" style="color: whitesmoke; font-size: large; font-weight: lighter">Study...</p>
 
 <p align="center">
