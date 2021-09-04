@@ -1,6 +1,6 @@
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=안녕하세요!&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=0hhanum의%20github&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=안녕하세요!&fontSize=80&animation=fadeIn&fontColor=d6ace6&desc=0hhanum의%20github&descAlignY=80)
 
 <br>
 <div style="border: 2px solid whitesmoke; border-radius: 20px">
