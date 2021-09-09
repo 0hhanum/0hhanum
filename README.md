@@ -1,3 +1,5 @@
+
+
 <div>
 <br>
 
@@ -20,7 +22,7 @@
 <br>
 <div style="border: 2px solid whitesmoke; border-radius: 20px">
 
-<p align="center" style="color: whitesmoke; font-size: large; font-weight: lighter">Study...</p>
+<p align="center" style="color: whitesmoke; font-size: large; font-weight: lighter">Learn</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
@@ -36,8 +38,18 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/pug-A86454?style=flat-square&logo=pug&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp
 <br>
 <br>
+</p>
+</div>
+<br>
+<br>
+<div style="border: 2px solid whitesmoke; border-radius: 20px">
+<p align="center" style="color: whitesmoke; font-size: large; font-weight: lighter">Now I'm interested in...</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=React&logoColor=white"/>&nbsp 
 </p>
 </div>
 </div>
