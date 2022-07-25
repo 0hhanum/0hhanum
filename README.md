@@ -10,7 +10,7 @@
 
 ### ✔️ Skills
 
-- Frond-End: JavaScript, TypeScript, React.js, Vue.js, HTML5/CSS3
+- Frond-End: JavaScript, TypeScript, React, Vue.js, HTML5/CSS3
 - Back-End: Node.js, Express, AWS
 - Others: MongoDB, SQLite, Firebase, Heroku
 
