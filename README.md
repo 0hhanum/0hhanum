@@ -24,4 +24,4 @@
 
   ( Notion, Figma, Slack, Zoom, Google Colab ... )
 
-- 웹서비스의 가능성과 하이브리드 어플리케이션
+- 웹서비스의 가능성과 PWA, 하이브리드 어플리케이션
