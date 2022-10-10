@@ -5,6 +5,7 @@
 <br>
 
 ## 해결하는 프론트엔드 개발자 오한음입니다.
+[More About Me] https://meadow-harbor-8db.notion.site/2fb05850a4d34c149421a7ed73cd713e
 
 <br>
 
