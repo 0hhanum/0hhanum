@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=안녕하세요!&fontSize=80&animation=fadeIn&fontColor=0000ff&desc=0hhanum의%20github&descAlignY=80)
 <br>
 
-### [👋 포트폴리오 보러가기 ->](https://meadow-harbor-8db.notion.site/2fb05850a4d34c149421a7ed73cd713e)
 ## 해결하는 프론트엔드 개발자 오한음입니다.
 
 <br>
