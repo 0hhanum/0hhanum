@@ -12,7 +12,7 @@
 ### ✔️ Skills
 
 - JavaScript, TypeScript
-- React, Vue.js, AngularJS
+- React, Vue.js, AngularJS, React Native
 
 <br>
 
