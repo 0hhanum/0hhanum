@@ -5,19 +5,3 @@
 <br>
 
 ## Hello, I'm Hanum, a front-end developer.
-
-
-<br>
-
-### ✔️ Skills
-
-- JavaScript, TypeScript
-- React, Vue.js, AngularJS, React Native
-
-<br>
-
-### ✔️ I'm passionate about...
-
-- Tackling challenging and creative problem-solving
-- Delivering enjoyable user experiences
-- Crafting advanced web applications that place front-end development at the core of their value proposition
